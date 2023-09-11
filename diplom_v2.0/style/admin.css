@@ -1,0 +1,12 @@
+table,th,td{
+	text-align: center;
+	border: 1px solid black;
+}
+
+.status_form input[type="text"]{
+	text-align: center;
+	outline: none;
+	border: none;
+	width: 150px;
+	font-size: 15px;
+}

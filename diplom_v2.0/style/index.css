@@ -1,0 +1,52 @@
+.header{
+	display: flex;
+	width: 100%;
+}
+
+.left_header{
+	text-align: left;
+	width: 33%;
+	margin: auto;
+}
+
+.center_header{
+	text-align: center;
+	width: 33%;
+	margin: auto;
+}
+
+.right_header{
+	text-align: right;
+	width: 33%;
+	margin: auto;
+}
+
+.main{
+
+}
+
+.main .navigation{
+	display: flex;
+	width: 100%;
+	text-align: center;
+	background-color: grey;
+}
+
+.navigation .menu_navigation{
+	width: 20%;
+	margin: auto;
+	padding: 15px;
+}
+
+.navigation a{
+	color: white;
+	text-decoration: none;
+}
+
+.navigation a:hover{
+	color: black;
+}
+
+.navigation a:active{
+	font-size: 12px;
+}

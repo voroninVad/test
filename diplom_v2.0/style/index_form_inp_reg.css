@@ -1,0 +1,26 @@
+.form_for_but{
+	position: fixed;
+	right: 1%;
+	top: 30%;
+}
+
+.form_for_but a img{
+	width: 50px;
+	height: 50px;
+}
+
+.form {
+	visibility: 0;
+	opacity: 0;
+	height: 0px;
+	overflow: hidden;
+	text-align: center;
+}
+.close_but{
+	text-align: right;
+}
+
+.close_but input{
+	color: black;
+	background-color: red;
+}
